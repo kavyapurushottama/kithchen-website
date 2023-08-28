@@ -1,0 +1,83 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.fa-solid {
+    font-size:x-large;
+}
+img{
+    width:100%;
+}
+section{
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+#Menu{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.img1{
+    height: 650px;
+    width: 500px;
+}
+.button{
+    font-family: Arial;
+    border:0;
+    padding: 14px 38px;
+}
+.button-brand{
+    color:white;
+    font-weight: 500;
+    border-color:#ff8800;
+    background-color:#F58d17;
+}
+.button-brand:hover{
+    border-color:#572e01;
+    background-color: #743f04;
+    color:white;
+}
+.slide-1{
+    background: linear-gradient(#00000041,#00000042),url(/home/kavya/Downloads/f6.jpg);
+}
+.slide-2{
+    background: linear-gradient(#00000041,#00000042),url(https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTl8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
+}
+.slide-3{
+    background: linear-gradient(#00000041,#00000042),url(/home/kavya/Downloads/f3jpg);
+}
+.bg-cover{
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#about .divider{
+    width: 60px;
+    height: 2px;
+    display: block;
+    background-color: #F58d17;
+}
+.intro-text{
+    margin: bottom 40px;
+    text-align:center;
+    padding-bottom: 50px;
+}
+.intro-text p{
+    max-width:500px;
+    margin:16px auto 0 auto;
+}
+.service .service-icon{
+    width:70px;
+    height: 70px;
+    background-color: orange;
+    color:#fff;
+    font-size:34px;
+    display: grid;
+    align-content: center;
+    text-align: center;
+}
+.features{
+    padding-top: 80px;
+    padding-left: 50px;
+}
